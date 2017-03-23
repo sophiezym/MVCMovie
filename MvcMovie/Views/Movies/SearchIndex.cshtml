@@ -9,6 +9,7 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 
+<<<<<<< HEAD
     
 <p>
     Genre: @Html.DropDownList("movieGenre", "All")
@@ -16,6 +17,14 @@
     <input type="submit" value="Filter" />
 
 </p>
+=======
+    @using (Html.BeginForm("SearchIndex", "Movies", FormMethod.Get))
+    {
+    <p>
+        Title: @Html.TextBox("SearchString")<br />
+        <input type="submit" value="Filter" />
+    </p>
+>>>>>>> parent of 13ef093... Adding Markup to the search index view
     }
 </p>
 <table>
