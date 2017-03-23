@@ -171,3 +171,7 @@ E:\2190\MVCMovie\MvcMovie\bin\zh-Hant\System.Spatial.resources.dll
 E:\2190\MVCMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 E:\2190\MVCMovie\MvcMovie\obj\Debug\MvcMovie.dll
 E:\2190\MVCMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+E:\2190\MVCMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+E:\2190\MVCMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+E:\2190\MVCMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate.resources
+E:\2190\MVCMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
