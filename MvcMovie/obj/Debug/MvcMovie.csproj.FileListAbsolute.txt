@@ -175,3 +175,4 @@ E:\2190\MVCMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
 E:\2190\MVCMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
 E:\2190\MVCMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate.resources
 E:\2190\MVCMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+E:\2190\MVCMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate1.resources
